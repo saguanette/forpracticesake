@@ -1,1 +1,2 @@
-yes yes yes, i am practising git since I haven't been using it for a while 
+yes yes yes, i am practising git since I haven't been using it for a while
+So now I need this line to pull it from the remote to my local machine 
