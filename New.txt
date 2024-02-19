@@ -1,3 +1,8 @@
 yes yes yes, i am practising git since I haven't been using it for a while
 So now I need this line to pull it from the remote to my local machine 
 Yet here comes another new line for the sake of practice
+
+This is to see how the change undo works 
+
+Okay i forgot to add this but actually i have nothing to add hehehe
+----------------------------------------------------------------
